@@ -1,0 +1,42 @@
+.sideBarContainer {
+  width: 27%;
+}
+
+.cardHeader {
+  text-transform: uppercase;
+  text-align: center;
+  box-sizing: border-box;
+  color: #565673;
+  font-weight: 700;
+}
+
+.cardBody {
+  padding: 10px 0;
+  color: #565673;
+}
+
+.profileImageContainer {
+  width: 100%;
+}
+.profileImageContainer img {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.recentPost {
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+.recentPost h3 {
+  color: #565673;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+.recentPost:first-child {
+  border-top: none;
+}
+.recentPost span {
+  font-size: 12px;
+}

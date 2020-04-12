@@ -1,0 +1,27 @@
+.header {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+.headerMenu {
+}
+.headerMenu ul {
+  margin: 0;
+  padding: 0;
+}
+.headerMenu ul li {
+  display: inline;
+}
+.headerMenu a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 1.2px;
+}
+
+.headerMenu a:hover {
+  color: #5f9ea0;
+}

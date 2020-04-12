@@ -1,0 +1,10 @@
+.logo {
+  text-align: center;
+  padding: 15px 0;
+}
+.logo a {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 50px;
+  text-decoration: none;
+  color: #333;
+}
